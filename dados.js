@@ -132,7 +132,7 @@ export default [
         {
             id: 16,
             classe: "Nobre",
-            imagem: "https://i.imgur.com/TyKNFX2.png"
+            imagem: "https://i.ibb.co/vcD95f0/TyKNFX2.png"
         },
         {
             id: 17,
