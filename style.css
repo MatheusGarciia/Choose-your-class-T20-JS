@@ -5,6 +5,7 @@
 
 body {
     background-color: rgb(204, 80, 80);
+    max-width: 100%;
 }
 
 .container {
